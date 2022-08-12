@@ -1,0 +1,13 @@
+{
+  "name": "ValConnect",
+  "email": "hello@valconnect.net",
+  "description": "We're always listening!",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "ValConnect"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Mail"],
+    "showIcons": true
+  }
+}

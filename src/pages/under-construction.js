@@ -16,11 +16,11 @@ export default function IndexPage() {
       <Seo title="ValConnect" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-        <InterestsSection sectionId="details" heading="Details" />
+        <AboutSection sectionId="about-us" heading="About Us" />
+        <InterestsSection sectionId="what-we-do" heading="What We Do" />
+        <ArticlesSection sectionId="happennings" heading="Happennings" sources={['Medium']} />
         <ProjectsSection sectionId="features" heading="Built-in Features" />
-        <ContactSection sectionId="github" heading="Issues?" />
+        <ContactSection sectionId="connect-with-us" heading="Connect With Us" />
       </Page>
     </>
   );

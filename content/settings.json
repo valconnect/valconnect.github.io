@@ -3,7 +3,7 @@
     "language": "en",
     "siteUrl": "https://valconnect.net/",
     "title": "ValConnect",
-    "titleTemplate": "%s · Portfolio Minimal",
+    "titleTemplate": "%s · Connecting Dots. Creating Value.",
     "description": "Connecting Dots. Creating Value.",
     "author": "",
     "avatar": "../content/images/logo.png",
@@ -12,23 +12,23 @@
       "behance": "https://behance.com",
       "github": "https://github.com/konstantinmuenster",
       "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "linkedin": "https://www.linkedin.com/in/valconnect/",
+      "mail": "mailto:us@valconnect.net"
     }
   },
   "siteConfiguration": {
     "logo": { "text": "ValConnect" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "About Us", "url": "/#about-us" },
+        { "label": "What We Do", "url": "/#what-we-do" },
+        { "label": "Team", "url": "/team" },
+        { "label": "Blog", "url": "/blog" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "label": "We're Hiring",
+        "url": "mailto:join@valconnect.net"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },

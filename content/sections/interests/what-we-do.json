@@ -1,0 +1,30 @@
+{
+  "interests": [
+    {
+      "label": "Financial Markets Research",
+      "image": {
+        "src": "../../images/joystick.png",
+        "alt": ""
+      }
+    },
+    {
+        "label": "Digital Transformation",
+        "image": {
+          "src": "../../images/joystick.png",
+          "alt": ""
+        }
+    },
+    {
+        "label": "Design, Branding & Strategy",
+        "image": {
+          "src": "../../images/joystick.png",
+          "alt": ""
+        }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}
