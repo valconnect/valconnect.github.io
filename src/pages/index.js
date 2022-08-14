@@ -11,5 +11,15 @@ import {
 } from "gatsby-theme-portfolio-minimal";
 
 export default function IndexPage() {
-  return <h1>Hi!</h1>
+  return (
+    <>
+      <Seo title="ValConnect" />
+      <Page useSplashScreenAnimation>
+        <HeroSection sectionId="hero" />
+        <AboutSection sectionId="about-us" heading="About Us" />
+        <InterestsSection sectionId="what-we-do" heading="What We Do" />
+        <ContactSection sectionId="connect-with-us" heading="Connect With Us" />
+      </Page>
+    </>
+  );
 }
