@@ -20,11 +20,19 @@
           "src": "../../images/joystick.png",
           "alt": ""
         }
+    },
+    {
+        "label": "Smartlink",
+        "link": "https://drive.google.com/file/d/1ij2wLAXZA3QvMIRMKKlFvxUpojusWd0N/view?usp=sharing"
+        "image": {
+          "src": "../../images/joystick.png",
+          "alt": ""
+        }
     }
   ],
   "button": {
     "visible": true,
-    "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "label": "+ Our Research",
+    "initiallyShownInterests": 3
   }
 }
